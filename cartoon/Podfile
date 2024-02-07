@@ -1,0 +1,8 @@
+platform :ios, '12.0'
+
+target 'cartoon' do
+
+	# source 'https://github.com/CocoaPods/Specs.git'
+	pod 'GPUImage'
+
+end
